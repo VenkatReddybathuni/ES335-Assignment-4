@@ -1,5 +1,4 @@
 # ES335-Assignment-4
-```markdown
 ### Question 1: Binary Classification Task
 
 In this question, you have to compare the performance on a binary classification task of the following models:
@@ -64,4 +63,3 @@ Vary dataset size $N$ and number of dimensions $D$ to do training and testing ti
 Now, in a 2D randomly generated dataset visually show how many of the $K$ closest neighbors approximately $K$ NN methods miss out due to their approximate nature.
 
 Also, show the partitions in the 2D space (0.5 marks).
-```
